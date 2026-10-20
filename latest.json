@@ -2,12 +2,12 @@
   "format": 1,
   "editions": {
     "AuraFlow": {
-      "version": "0.9.11",
+      "version": "0.9.12",
       "engine": 4,
       "update": {
-        "url": "https://github.com/Gorechilduk/aura-flow-releases/releases/download/AuraFlow-0.9.11/AuraFlow-update-0.9.11.zip",
-        "sha256": "0537a5271deca0eb59224a1421576342097af477eccd54e8f5057cef86d5d05e",
-        "size": 2240024
+        "url": "https://github.com/Gorechilduk/aura-flow-releases/releases/download/AuraFlow-0.9.12/AuraFlow-update-0.9.12.zip",
+        "sha256": "c3d4a5732733aad434caa5dfc1b5dadcf6402ce677dc81ccb4a1521b55628d32",
+        "size": 2240304
       }
     },
     "AuraVoiceCommander": {
