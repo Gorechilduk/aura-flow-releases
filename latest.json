@@ -9,6 +9,15 @@
         "sha256": "2cbce71a12fa5823f9c534d2a99619dcd13e1bb400805e5d33c26e37af5d46a4",
         "size": 2239283
       }
+    },
+    "AuraVoiceCommander": {
+      "version": "0.9.9",
+      "engine": 4,
+      "update": {
+        "url": "https://github.com/Gorechilduk/aura-flow-releases/releases/download/AuraVoiceCommander-0.9.9/AuraVoiceCommander-update-0.9.9.zip",
+        "sha256": "62a9705f3b0e1a1e779da43d941ef0e93ec2320d2b402c63641304ade2b93661",
+        "size": 2239089
+      }
     }
   },
   "voices": {
