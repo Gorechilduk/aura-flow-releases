@@ -1,6 +1,16 @@
 {
   "format": 1,
-  "editions": {},
+  "editions": {
+    "AuraFlow": {
+      "version": "0.9.9",
+      "engine": 4,
+      "update": {
+        "url": "https://github.com/Gorechilduk/aura-flow-releases/releases/download/AuraFlow-0.9.9/AuraFlow-update-0.9.9.zip",
+        "sha256": "2cbce71a12fa5823f9c534d2a99619dcd13e1bb400805e5d33c26e37af5d46a4",
+        "size": 2239283
+      }
+    }
+  },
   "voices": {
     "kokoro-standard": {
       "label": "Standard",
