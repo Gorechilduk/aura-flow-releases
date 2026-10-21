@@ -11,12 +11,12 @@
       }
     },
     "AuraVoiceCommander": {
-      "version": "0.9.14",
+      "version": "0.9.15",
       "engine": 4,
       "update": {
-        "url": "https://github.com/Gorechilduk/aura-flow-releases/releases/download/AuraVoiceCommander-0.9.14/AuraVoiceCommander-update-0.9.14.zip",
-        "sha256": "d4069b5d7e8c94665e2f60e142635ee0f56ddd6947239edd40211adbe517ea76",
-        "size": 2241097
+        "url": "https://github.com/Gorechilduk/aura-flow-releases/releases/download/AuraVoiceCommander-0.9.15/AuraVoiceCommander-update-0.9.15.zip",
+        "sha256": "7fa72f7393224d7e1fa93909feef18265eacfd88d4a8988c4fb774aa64a7e2ce",
+        "size": 2244665
       }
     }
   },
