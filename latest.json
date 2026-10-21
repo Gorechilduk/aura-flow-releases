@@ -20,11 +20,11 @@
       }
     },
     "AuraFlowAndroid": {
-      "version": "0.8.6",
-      "code": 16,
+      "version": "0.8.7",
+      "code": 17,
       "apk": {
-        "url": "https://github.com/Gorechilduk/aura-flow-releases/releases/download/AuraFlowAndroid-0.8.6/AuraFlow-Android-0.8.6.apk",
-        "sha256": "a7ff3d5889a84e0c1b8c6edb32c241f6790a2921697713746a1d5357beb964b5",
+        "url": "https://github.com/Gorechilduk/aura-flow-releases/releases/download/AuraFlowAndroid-0.8.7/AuraFlow-Android-0.8.7.apk",
+        "sha256": "95958afadc9b101dfb12e9629ce96403e3d4d5cfbeb5fc52db7cd0d59ac6de95",
         "size": 87369812
       }
     }
