@@ -18,6 +18,15 @@
         "sha256": "7fa72f7393224d7e1fa93909feef18265eacfd88d4a8988c4fb774aa64a7e2ce",
         "size": 2244665
       }
+    },
+    "AuraFlowAndroid": {
+      "version": "0.8.6",
+      "code": 16,
+      "apk": {
+        "url": "https://github.com/Gorechilduk/aura-flow-releases/releases/download/AuraFlowAndroid-0.8.6/AuraFlow-Android-0.8.6.apk",
+        "sha256": "a7ff3d5889a84e0c1b8c6edb32c241f6790a2921697713746a1d5357beb964b5",
+        "size": 87369812
+      }
     }
   },
   "voices": {
